@@ -1,0 +1,14 @@
+vn_001,boeing 737 max,250
+vn_003,airbus a 310,240
+vn_005,boeing 737 max,300
+vn_006,airbus a 350,260
+vn_010,boeing 737 max,100
+vn_030,airbus a 330,250
+vn_050,boeing 737-200,290
+vn_055,boeing 737 max,100
+vn_155,antonov an-30,300
+vn_250,boeing 737-800,280
+vn_300,boeing 737-300f,260
+vn_400,boeing 767-300er,240
+vn_500,boeing 737 max,270
+vn_700,airbus a 310,230
